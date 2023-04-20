@@ -1,0 +1,21 @@
+Redux
+
+https://redux.js.org/
+
+Redux is a state management Library
+
+Basic Elements of redux
+1. Actions is JS object
+		Actions are Js Object which must have type property
+2. ActionCreator are some functions
+3. ReducerFunction  are some functions
+4. StoreObject  is JS Object
+		StoreObject is passed at the top level appliacation Comp
+ 
+
+object.method()
+
+https://react-redux.js.org/
+
+
+useContext+useReducer = Redux
